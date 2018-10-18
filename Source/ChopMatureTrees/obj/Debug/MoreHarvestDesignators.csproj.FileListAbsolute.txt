@@ -1,0 +1,6 @@
+D:\Spiele\SteamApps\common\RimWorld\Mods\ChopMatureTreesDev\Source\ChopMatureTrees\obj\Debug\MoreHarvestDesignators.csprojResolveAssemblyReference.cache
+D:\Spiele\SteamApps\common\RimWorld\Mods\ChopMatureTreesDev\Assemblies\MoreHarvestDesignators.dll
+D:\Spiele\SteamApps\common\RimWorld\Mods\ChopMatureTreesDev\Source\ChopMatureTrees\obj\Debug\MoreHarvestDesignators.dll
+D:\Spiele\SteamApps\common\RimWorld\Mods\MoreHarvestDesignatorsDEV\Assemblies\MoreHarvestDesignators.dll
+D:\Spiele\SteamApps\common\RimWorld\Mods\MoreHarvestDesignatorsDEV\Source\ChopMatureTrees\obj\Debug\MoreHarvestDesignators.csprojResolveAssemblyReference.cache
+D:\Spiele\SteamApps\common\RimWorld\Mods\MoreHarvestDesignatorsDEV\Source\ChopMatureTrees\obj\Debug\MoreHarvestDesignators.dll

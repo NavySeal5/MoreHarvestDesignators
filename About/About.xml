@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>More Harvest Designators! [B19]</name>
+  <name>More Harvest Designators!</name>
   <author>NavySeal</author>
-  <targetVersion>0.19.2009</targetVersion>
-  <url>https://ludeon.com/forums/index.php?topic=43531.0</url>
-  <description>Adds more plant oriented designators to the game!</description>
+  <targetVersion>1.0.2059</targetVersion>
+  <description>Adds an more plant oriented designators to the game!</description>
 </ModMetaData>

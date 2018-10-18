@@ -1,0 +1,3 @@
+D:\Spiele\SteamApps\common\RimWorld\Mods\ChopMatureTreesDev\Source\ChopMatureTrees\obj\Debug\ChopMatureTrees.csprojResolveAssemblyReference.cache
+D:\Spiele\SteamApps\common\RimWorld\Mods\ChopMatureTreesDev\Assemblies\ChopMatureTrees.dll
+D:\Spiele\SteamApps\common\RimWorld\Mods\ChopMatureTreesDev\Source\ChopMatureTrees\obj\Debug\ChopMatureTrees.dll
