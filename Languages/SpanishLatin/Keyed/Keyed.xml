@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Designator_PlantCut_Blighted_label>Cortar plantas marchitas</Designator_PlantCut_Blighted_label>
+	<Designator_PlantCut_Blighted_desc>Marca sólo a las plantas marchitas para ser cortadas</Designator_PlantCut_Blighted_desc>
+	<Designator_PlantCut_Blighted_rejected>¡Debe designar plantas marchitas!</Designator_PlantCut_Blighted_rejected>
+
+	<Designator_PlantsHarvest_Mature_label>Cosechar plantas maduras</Designator_PlantsHarvest_Mature_label>
+	<Designator_PlantsHarvest_Mature_desc>Marca sólo a las plantas completamente maduras para su cosecha</Designator_PlantsHarvest_Mature_desc>
+	<Designator_PlantsHarvest_Mature_rejected>¡Debe designar plantas completamente maduras!</Designator_PlantsHarvest_Mature_rejected>
+
+	<Designator_PlantsHarvestWood_Mature_label>Cortar árboles maduros</Designator_PlantsHarvestWood_Mature_label>
+	<Designator_PlantsHarvestWood_Mature_desc>Marca sólo a los árboles completamente maduros para la tala</Designator_PlantsHarvestWood_Mature_desc>
+	<Designator_PlantsHarvestWood_Mature_Rejected>¡Debe designar árboles completamente maduros!</Designator_PlantsHarvestWood_Mature_Rejected>
+
+</LanguageData>
