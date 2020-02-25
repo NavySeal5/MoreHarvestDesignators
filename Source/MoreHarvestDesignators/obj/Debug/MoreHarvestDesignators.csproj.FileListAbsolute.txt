@@ -1,3 +1,0 @@
-D:\Spiele\SteamApps\common\RimWorld\Mods\MoreHarvestDesignators\Assemblies\MoreHarvestDesignators.dll
-D:\Spiele\SteamApps\common\RimWorld\Mods\MoreHarvestDesignators\Source\MoreHarvestDesignators\obj\Debug\MoreHarvestDesignators.csprojAssemblyReference.cache
-D:\Spiele\SteamApps\common\RimWorld\Mods\MoreHarvestDesignators\Source\MoreHarvestDesignators\obj\Debug\MoreHarvestDesignators.dll

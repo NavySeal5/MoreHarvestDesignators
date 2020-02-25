@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>More Harvest Designators!</name>
-  <author>NavySeal</author>
-  <supportedVersions>
-    <li>1.1</li>
-  </supportedVersions>
-  <packageId>navyseal5.MoreHarvestDesignators.v1.1</packageId>
-  <description>Adds more plant oriented designators to the game!</description>
+	<name>More Harvest Designators!</name>
+	<author>NavySeal</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>navyseal5.MoreHarvestDesignators</packageId>
+	<description>Adds more plant oriented designators to the game!</description>
 </ModMetaData>
