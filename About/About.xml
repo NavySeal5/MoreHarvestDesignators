@@ -2,6 +2,9 @@
 <ModMetaData>
   <name>More Harvest Designators!</name>
   <author>NavySeal</author>
-  <targetVersion>1.0.2059</targetVersion>
-  <description>Adds an more plant oriented designators to the game!</description>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageId>navyseal5.MoreHarvestDesignators.v1.1</packageId>
+  <description>Adds more plant oriented designators to the game!</description>
 </ModMetaData>
