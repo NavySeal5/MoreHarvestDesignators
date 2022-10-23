@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>*/DesignationCategoryDef[defName="Orders"]/specialDesignatorClasses</xpath>
+    <value>
+      <li>MoreHarvestDesignators.Designator_PlantsHarvestWood_Mature</li>
+	  <li>MoreHarvestDesignators.Designator_PlantsHarvest_Mature</li>
+	  <li>MoreHarvestDesignators.Designator_PlantCut_Blighted</li>
+    </value>
+  </Operation>
+</Patch>

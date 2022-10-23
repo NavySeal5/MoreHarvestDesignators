@@ -11,5 +11,8 @@
 	<Designator_PlantsHarvestWood_Mature_label> Chop mature tree</Designator_PlantsHarvestWood_Mature_label>
 	<Designator_PlantsHarvestWood_Mature_desc>Only marks fully-grown trees for harvest</Designator_PlantsHarvestWood_Mature_desc>
 	<Designator_PlantsHarvestWood_Mature_Rejected>Must designate fully-grown trees!</Designator_PlantsHarvestWood_Mature_Rejected>
-		
+	
+	<Designator_PlantCut_NoTrees_label>Cut all but trees</Designator_PlantCut_NoTrees_label>
+	<Designator_PlantCut_NoTrees_desc>Cuts all plants, except trees</Designator_PlantCut_NoTrees_desc>
+	<Designator_PlantCut_NoTrees_rejected>Must designate plants!</Designator_PlantCut_NoTrees_rejected>
 </LanguageData>
