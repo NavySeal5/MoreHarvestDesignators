@@ -12,4 +12,7 @@
 	<Designator_PlantsHarvestWood_Mature_desc>Markiert nur ausgewachsene Bäume zum Fällen</Designator_PlantsHarvestWood_Mature_desc>
 	<Designator_PlantsHarvestWood_Mature_Rejected>Es müssen ausgewachsene Bäume ausgewählt werden!</Designator_PlantsHarvestWood_Mature_Rejected>
 		
+	<Designator_PlantsHarvestStumps_label>Baumstümpfe schneiden</Designator_PlantsHarvestStumps_label>
+	<Designator_PlantsHarvestStumps_desc>Markiert nur Baumstümpfe</Designator_PlantsHarvestStumps_desc>
+	<Designator_PlantsHarvestStump_Rejected>Es müssen Baumstümpfe ausgewählt werden!</Designator_PlantsHarvestStump_Rejected>
 </LanguageData>

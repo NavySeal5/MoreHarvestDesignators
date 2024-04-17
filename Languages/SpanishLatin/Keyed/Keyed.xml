@@ -13,4 +13,8 @@
 	<Designator_PlantsHarvestWood_Mature_desc>Marca sólo a los árboles completamente maduros para la tala</Designator_PlantsHarvestWood_Mature_desc>
 	<Designator_PlantsHarvestWood_Mature_Rejected>¡Debe designar árboles completamente maduros!</Designator_PlantsHarvestWood_Mature_Rejected>
 
+	<Designator_PlantsHarvestStumps_label>Cortar todos los tocones de árboles</Designator_PlantsHarvestStumps_label>
+	<Designator_PlantsHarvestStumps_desc>Corta todos los tocones de árboles</Designator_PlantsHarvestStumps_desc>
+	<Designator_PlantsHarvestStump_Rejected>Debe designar los tocones de los árboles!</Designator_PlantsHarvestStump_Rejected>
+
 </LanguageData>

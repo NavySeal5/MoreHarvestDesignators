@@ -15,4 +15,8 @@
 	<Designator_PlantCut_NoTrees_label>Cut all but trees</Designator_PlantCut_NoTrees_label>
 	<Designator_PlantCut_NoTrees_desc>Cuts all plants, except trees</Designator_PlantCut_NoTrees_desc>
 	<Designator_PlantCut_NoTrees_rejected>Must designate plants!</Designator_PlantCut_NoTrees_rejected>
+
+	<Designator_PlantsHarvestStumps_label>Cut all tree stumps</Designator_PlantsHarvestStumps_label>
+	<Designator_PlantsHarvestStumps_desc>Cuts all tree stumps</Designator_PlantsHarvestStumps_desc>
+	<Designator_PlantsHarvestStump_Rejected>Must designate tree stumps!</Designator_PlantsHarvestStump_Rejected>
 </LanguageData>

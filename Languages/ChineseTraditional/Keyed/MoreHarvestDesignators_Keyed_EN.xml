@@ -12,4 +12,8 @@
   <Designator_PlantsHarvestWood_Mature_desc>只標記要砍伐成熟的樹</Designator_PlantsHarvestWood_Mature_desc>
   <Designator_PlantsHarvestWood_Mature_Rejected>必須指定完全成長的樹木！</Designator_PlantsHarvestWood_Mature_Rejected>
 
+	<Designator_PlantsHarvestStumps_label>砍掉所有树桩</Designator_PlantsHarvestStumps_label>
+	<Designator_PlantsHarvestStumps_desc>砍伐所有树桩</Designator_PlantsHarvestStumps_desc>
+	<Designator_PlantsHarvestStump_Rejected>必须指定树桩!</Designator_PlantsHarvestStump_Rejected>
+
 </LanguageData>
