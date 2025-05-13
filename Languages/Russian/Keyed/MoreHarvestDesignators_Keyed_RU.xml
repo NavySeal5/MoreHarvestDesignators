@@ -16,7 +16,7 @@
 	<Designator_PlantCut_NoTrees_desc>Срезает все растения, кроме деревьев</Designator_PlantCut_NoTrees_desc>
 	<Designator_PlantCut_NoTrees_rejected>Необходимо выделить растения!</Designator_PlantCut_NoTrees_rejected>
 
-	<Designator_PlantsHarvestStumps_label>Срезать все пни деревьев</Designator_PlantsHarvestStumps_label>
-	<Designator_PlantsHarvestStumps_desc>Срезает все пни деревьев</Designator_PlantsHarvestStumps_desc>
+	<Designator_PlantsHarvestStumps_label>Срезать пни деревьев</Designator_PlantsHarvestStumps_label>
+	<Designator_PlantsHarvestStumps_desc>Срезает пни деревьев</Designator_PlantsHarvestStumps_desc>
 	<Designator_PlantsHarvestStump_Rejected>Необходимо выделить пни деревьев!</Designator_PlantsHarvestStump_Rejected>
 </LanguageData>
