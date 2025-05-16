@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Designator_PlantCut_Blighted_label>Срезать больные растения</Designator_PlantCut_Blighted_label>
+	<Designator_PlantCut_Blighted_desc>Отмечает только больные растения, подлежащие срезке</Designator_PlantCut_Blighted_desc>
+	<Designator_PlantCut_Blighted_rejected>Необходимо обозначить больные растения!</Designator_PlantCut_Blighted_rejected>
+	
+	<Designator_PlantsHarvest_Mature_label>Собрать выросшие растения</Designator_PlantsHarvest_Mature_label>
+	<Designator_PlantsHarvest_Mature_desc>Отмечает только полностью выросшие растения для сбора</Designator_PlantsHarvest_Mature_desc>
+	<Designator_PlantsHarvest_Mature_rejected>Необходимо обозначить полностью выросшие растения!</Designator_PlantsHarvest_Mature_rejected>
+
+	<Designator_PlantsHarvestWood_Mature_label>Срубить выросшие деревья</Designator_PlantsHarvestWood_Mature_label>
+	<Designator_PlantsHarvestWood_Mature_desc>Отмечает только полностью выросшие деревья</Designator_PlantsHarvestWood_Mature_desc>
+	<Designator_PlantsHarvestWood_Mature_Rejected>Необходимо обозначить полностью выросшие деревья!</Designator_PlantsHarvestWood_Mature_Rejected>
+	
+	<Designator_PlantCut_NoTrees_label>Срезать все, кроме деревьев</Designator_PlantCut_NoTrees_label>
+	<Designator_PlantCut_NoTrees_desc>Срезает все растения, кроме деревьев</Designator_PlantCut_NoTrees_desc>
+	<Designator_PlantCut_NoTrees_rejected>Необходимо выделить растения!</Designator_PlantCut_NoTrees_rejected>
+
+	<Designator_PlantsHarvestStumps_label>Срезать пни деревьев</Designator_PlantsHarvestStumps_label>
+	<Designator_PlantsHarvestStumps_desc>Срезает пни деревьев</Designator_PlantsHarvestStumps_desc>
+	<Designator_PlantsHarvestStump_Rejected>Необходимо выделить пни деревьев!</Designator_PlantsHarvestStump_Rejected>
+</LanguageData>
